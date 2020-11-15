@@ -1,6 +1,6 @@
 # ChineseNumberOCR
 
-### Handwriten Chinese number recognition (classification) using deep learning method by Pytorch.
+#### Handwriten Chinese number recognition (classification) using deep learning method by Pytorch.
 
 ![image](https://github.com/sfwang20/ChineseNumberOCR/blob/master/demo/number.jpg)
 
@@ -14,4 +14,6 @@
 
 ![image](https://github.com/sfwang20/ChineseNumberOCR/blob/master/demo/test_demo.png)
 
+#### Show weights 
 
+![image](https://github.com/sfwang20/ChineseNumberOCR/blob/master/demo/weights.png)
